@@ -1101,7 +1101,7 @@ body.offcanvas {
     display: -moz-inline-stack;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
     width: 30px;
     height: 2px;
     color: #000;
@@ -1182,3 +1182,12 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+  .cv-btn {
+  background-color: skyblue !important;
+  color: black !important;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+
